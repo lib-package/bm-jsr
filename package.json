@@ -1,0 +1,26 @@
+{
+  "name": "bm-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bm-svelte-app": "./index.ts"
+  },
+  "bin": {
+    "bm-svelte-app": "./index.ts"
+  },
+  "keywords": [],
+  "author": "ByteMinds PH Tech",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "degit": "^2.8.4",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/degit": "^2.8.6",
+    "@types/progress": "^2.0.7",
+    "@types/readline-sync": "^1.4.8"
+  }
+}
