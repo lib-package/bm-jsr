@@ -1,7 +1,7 @@
 {
   "name": "@bytemindsph/bm-boilerplate",
   "version": "1.0.1",
-  "scripts": "node ./index.js",
+  "exports": "./index.js",
   "description": "Svelte boilerplate used by ByteMinds PH projects",
   "publish": {
     "include": [
